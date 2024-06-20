@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer base {
+    .bg-home {
+      background-image: url('https://c7.alamy.com/comp/2CTBB76/books-flat-design-background-light-simple-backdrop-with-colorful-open-books-2CTBB76.jpg');
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+    }
+  }
+ 
